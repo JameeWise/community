@@ -12,7 +12,7 @@ DEFAULT_WHO = "world!"
 load("http.star", "http")
 
 def main(config):
-	selectedTeam = config.get("team", "ana")
+	selectedTeam = config.get("team", "cbj")
 	img = http.get('https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/' + selectedTeam + '.png').body()
 	return render.Root(
         delay = 500,

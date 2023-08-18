@@ -1,8 +1,8 @@
 ---
-id: helloworld
-name: HelloWorld
-summary: Hello World
-desc: Hello World.
+id: nhlteam
+name: NHLTeam
+summary: Display information about a selected NHL team.
+desc: Display information about a selected NHL team such as record, division standings, and gameday matchups.
 author: jwise
-fileName: helloworld.star
-packageName: helloworld
+fileName: nhlteam.star
+packageName: nhlteam

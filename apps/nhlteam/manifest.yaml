@@ -1,0 +1,8 @@
+---
+id: helloworld
+name: HelloWorld
+summary: Hello World
+desc: Hello World.
+author: jwise
+fileName: helloworld.star
+packageName: helloworld
